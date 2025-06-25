@@ -1,16 +1,18 @@
-## Hi there 👋
+**`Cientista de Dados`**
 
-<!--
-**A275-rgb/A275-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel de Sousa Araujo, tenho 19 anos e sou natural de Brasília-DF mas moro no Rio Grande do Sul. Concluí o ensino médio. Atualmente, estou cursando Ciências de Dados na UNINTER. .
 
-Here are some ideas to get you started:
+- 🌱 Estou aprendendo sobre Ciência de Dados e Aprendizado de Máquina usando Python 🐍
+- 📧 Meu e-mail é ga6306957@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
