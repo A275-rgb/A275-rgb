@@ -6,7 +6,7 @@ Me chamo Gabriel de Sousa Araujo, tenho 19 anos e sou natural de Brasília-DF ma
 - 📧 Meu e-mail é ga6306957@gmail.com
 
 <div align="center" style="margin-top: 20px;">
-  <a href="linkedin.com/in/gabriel-araújo-12175b2aa" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-sousa-araújo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 
