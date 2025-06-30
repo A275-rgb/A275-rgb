@@ -4,6 +4,7 @@ Me chamo Gabriel de Sousa Araujo, tenho 19 anos e sou natural de Brasília-DF ma
 
 - 🌱 Estou aprendendo sobre Ciência de Dados e Aprendizado de Máquina usando Python 🐍
 - 📧 Meu e-mail é ga6306957@gmail.com
+- www.linkedin.com/in/gabriel-sousa-araújo
 
 <div align="center" style="margin-top: 20px;">
   <a href="www.linkedin.com/in/gabriel-sousa-araújo" target="_blank">
